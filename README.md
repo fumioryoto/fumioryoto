@@ -2,7 +2,7 @@
 
 🔴 **Cybersecurity Learner | Red Teaming & Penetration Testing Enthusiast**
 
-I’m learning and practicing **Red Teaming and Penetration Testing**, focusing on understanding **how real-world attacks work** and explaining them in a **simple, student-friendly way**.
+I’m learning and practicing **Red Teaming and Penetration Testing**, focusing on understanding **how real-world attacks work** and explaining them in a **simple and friendly way**.
 
 ---
 
