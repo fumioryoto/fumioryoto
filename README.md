@@ -75,7 +75,14 @@ I’m learning and practicing **Red Teaming and Penetration Testing**, focusing 
 
 ## 📊 GitHub Stats *(optional)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fumioryoto&show_icons=true&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fumioryoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumioryoto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fumioryoto&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</div>
 
 ---
 
