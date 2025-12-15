@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Nahid Hasan
+<p align="center"><img src="https://i.gifer.com/Z5aE.gif" width="100%" height="auto"/></p>
+# 👋 Hi, I'm Nahid
 
 🔴 **Cybersecurity Learner | Red Teaming & Penetration Testing Enthusiast**
 
