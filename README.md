@@ -1,10 +1,11 @@
 <p align="center"><img src="https://i.gifer.com/Z5aE.gif" width="70%" height="auto"/></p>
-# 👋 Hi, I'm Nahid
+👋 Hi, I'm Nahid
 
 🔴 **Cybersecurity Learner | Red Teaming & Penetration Testing Enthusiast**
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=fumioryoto&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
 </p>
+
 I’m learning and practicing **Red Teaming and Penetration Testing**, focusing on understanding **how real-world attacks work** and explaining them in a **simple and friendly way**.
 
 ---
