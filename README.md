@@ -43,10 +43,10 @@ I’m learning and practicing **Red Teaming and Penetration Testing**, focusing 
 
 ## 📊 Overview
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fumioryoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumioryoto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <a href="https://github.com/fumioryoto/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=fumioryoto&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="fumioryoto" /></picture></a>
+  <a href="https://github.com/fumioryoto/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=fumioryoto&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fumioryoto&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
