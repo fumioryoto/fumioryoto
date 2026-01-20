@@ -1,4 +1,10 @@
 <p align="center"><img src="https://i.gifer.com/Z5aE.gif" width="70%" height="auto"/></p>
+
+
+[![Play on YouTube](https://img.shields.io/badge/Play%20Music-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=FzEiJWB7Emk)
+
+
+
 👋 Hi, I'm Nahid
 
 🔴 **Cybersecurity Learner | Red Teaming & Penetration Testing Enthusiast**
