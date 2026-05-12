@@ -1,37 +1,14 @@
 <p align="center"><img src="https://i.gifer.com/Z5aE.gif" width="70%" height="auto"/></p>
 
-# 👋 Hi, I'm Nahid
+# Hi, I'm Nahid
 
-### 🔴 **Cybersecurity Learner | Red Teaming & Penetration Testing Enthusiast**
+### 🔴 **Cybersecurity Learner | Red Teaming & Penetration Tester & Open Source Enthusiast**
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=fumioryoto&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
 </p>
 
-I’m learning and practicing **Red Teaming and Penetration Testing**, focusing on understanding **how real-world attacks work** and explaining them in a **simple and friendly way**.
-
 ---
-
-## 🧠 Focus Areas
-
-- 🧭 Threat Modeling & Adversary Tactics
-- 🔐 Security Assessment Frameworks & Methodologies
-- 🌐 Application & Network Security Architecture
-- 🔍 Vulnerability Research & Exploitation Techniques
-- 🐧 Linux & Kali Linux
-- 📊 MITRE ATT&CK & Cyber Kill Chain
-
----
-
-### 💻 Offensive Security Operations
-
-⚔️ **Red Team Operations** – Advanced Adversary Simulation & Threat Emulation  
-🛡️ **Penetration Testing** – Web, Network, API, Cloud, and Mobile Security  
-🐝 **Bug Bounty Hunting** – Ethical Hacking & Vulnerability Identification  
-🎭 **Social Engineering & OSINT** – Phishing Campaigns & Attack Simulation
-
-> **Hack to Learn, Learn to Hack** 🚀  
-> **Security is a Journey, Not a Destination** 🔐
 
 ---
 
@@ -65,5 +42,3 @@ I’m learning and practicing **Red Teaming and Penetration Testing**, focusing 
 </div>
 
 ---
-
-⭐ Always learning. Always improving.
