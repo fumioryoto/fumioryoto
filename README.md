@@ -5,21 +5,21 @@
 
 ## **☕ About me**
 <a href="https://fumioryoto.github.io">
-    <img align="left" width="100" src="./images/mahiro_switch.png">
+    <img align="left" width="100" src="./Images/mahiro_switch.png">
 </a>
-<p>I'm Nahid, a passionate student who currently focused on Cybersecurity stuff. Other than that, I also interested in Web Development and Open Source stuff. I love to learn new things and always open to new opportunities.<br>my hobbies are playing games (random), watching anime, and sometimes tinkering with random stuff like coding & reverse engineering (I love doing this).</p>
+<p>I'm Nahid, a passionate student who currently focused on Cybersecurity stuff. Other than that, I also interested in Web Development and Open Source stuff. I love to learn new things and always open to new opportunities.<br>My hobbies are playing games (random), watching anime & movies/series, and sometimes tinkering with random stuff like coding & reverse engineering (I love doing this a lot).</p>
 
 
 ## **🧋 Cutie Counter**
 <p align="center">
-	<img src="https://count.getloli.com/get/@rem01gaming?theme=original-new" alt="Rem01Gaming's cutie counter"/>
+	<img src="https://count.getloli.com/get/@fumioryoto?theme=original-new" alt="fumioryoto's cutie counter"/>
 	<br><br>
 	<code>People who visit my profile :3</code>
 </p>
 
 ## **📫 Contacts**
 <a href="https://rem01gaming.github.io">
-    <img align="left" width="100" src="./images/mahiro.png" />
+    <img align="left" width="100" src="./Images/mahiro.png" />
 </a>
 
 **Please Contact me on Telegram for a quick response:** [Nahid](https://t.me/fumioryoto)
