@@ -2,14 +2,14 @@
 
 # Hi, I'm Nahid
 
-### 🔴 **Cybersecurity Learner | Red Teaming & Penetration Tester & Open Source Enthusiast**
+### **Cybersecurity Learner | Red Teaming & Penetration Tester & Open Source Enthusiast**
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=fumioryoto&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
 </p>
 
 ---
-
+I like to learn all kind of attack vectors and stuff. I also like reverse engineering to tinkers with applications of both windows and android. I am also a self taught programmer or a wannabe :)
 ---
 
 | 🛡️ **Pentesting**                                                                                                                                                                                                             | 🧠 **Exploits & Dev**                                                                                                                                                                                                                                                                                                                                                                                            | 🔍 **Reconnaissance**                                                                  |
