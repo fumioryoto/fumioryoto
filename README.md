@@ -7,7 +7,7 @@
 <a href="https://fumioryoto.github.io">
     <img align="left" width="100" src="./Images/mahiro_switch.png">
 </a>
-<p>I'm Nahid, a passionate student who currently focused on Cybersecurity stuff. Other than that, I also interested in Web Development and Open Source stuff. I love to learn new things and always open to new opportunities.<br>My hobbies are playing games (random), watching anime & movies/series, and sometimes tinkering with random stuff like coding & reverse engineering (I love doing this a lot).</p>
+<p>I'm Nahid, a passionate Person who currently focused on Cybersecurity stuff. Other than that, I also interested in Web Development and Open Source stuff. I love to learn new things and always open to new opportunities.<br>My hobbies are playing games (random), watching anime & movies/series, and sometimes tinkering with random stuff like coding & reverse engineering (I love doing this a lot).</p>
 
 
 ## **🧋 Cutie Counter**
