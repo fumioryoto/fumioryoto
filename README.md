@@ -29,12 +29,12 @@
 ```c
 #include <stdio.h>
 
-void email() {
-  puts("fumioryoto@gmail.com");
+void website() {
+  puts("fumioryoto.com");
 }
 
 int main () {
-    email();
+    website();
     return 0;
 }
 ```
