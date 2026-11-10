@@ -41,7 +41,6 @@ int main () {
 ## GitHub Stats ✨
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.shion.dev/api?username=fumioryoto&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=fumioryoto&theme=gruvbox_light&hide_border=false" /></td>
     <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fumioryoto&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
   </tr>
