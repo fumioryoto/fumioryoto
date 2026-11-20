@@ -22,7 +22,7 @@
     <img align="left" width="100" src="./Images/mahiro.png" />
 </a>
 
-**Please Contact me on Telegram for a quick response:** [Nahid](https://t.me/fumioryoto)
+**Please Contact me on Telegram for a quick response:** [Nahid](https://t.me/ninsec)
 
 **You can also email me here:** 
 
