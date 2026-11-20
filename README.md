@@ -1,8 +1,12 @@
 # Hi, I'm Nahid
 
+<table align="center" border="1" cellpadding="8" cellspacing="0">
+<tr><td>
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=fumioryoto&data=followers,repositories,stars,commits&theme=aether" width="100%" alt="GitHub profile summary for fumioryoto" />
 </p>
+</td></tr>
+</table>
 
 ## About me
 
@@ -19,7 +23,7 @@ My hobbies include playing games, watching anime and movies or series, and tinke
 <p align="center">
   <img src="https://count.getloli.com/get/@fumioryoto?theme=original-new" alt="Visitor counter for fumioryoto's profile" />
   <br /><br />
-  <code>People who visit my profile :3</code>
+  <code>Number of People who visited my profile :3</code>
 </p>
 
 ## Find me online
@@ -28,15 +32,15 @@ My hobbies include playing games, watching anime and movies or series, and tinke
   <img align="right" width="100" src="./Images/mahiro.png" alt="Mahiro character illustration" />
 </a>
 
-<p>
-  <a href="https://fumioryoto.com" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" alt="Website" /></a>&nbsp;
-  <a href="https://t.me/ninsec" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram: @ninsec (quickest way to reach me)" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ninsec/" title="LinkedIn"><img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.facebook.com/nahidc71.phtml/" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" alt="Facebook" /></a>&nbsp;
-  <a href="https://www.instagram.com/nin__sec/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a>&nbsp;
-  <a href="https://x.com/nin_sec" title="X"><img src="https://cdn.simpleicons.org/x/000000" width="40" alt="X" /></a>&nbsp;
-  <a href="https://github.com/fumioryoto" title="GitHub: @fumioryoto"><img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub: @fumioryoto" /></a>&nbsp;
-  <a href="https://github.com/Ninsec" title="GitHub: @Ninsec"><img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub: @Ninsec" /></a>
+<p align="center">
+  <a href="https://fumioryoto.com" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Website" /></a>&nbsp;
+  <a href="https://t.me/ninsec" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram: @ninsec (quickest way to reach me)" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ninsec/" title="LinkedIn"><img src="https://img.icons8.com/color/96/linkedin.png" width="32" height="32" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.facebook.com/nahidc71.phtml/" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" height="32" alt="Facebook" /></a>&nbsp;
+  <a href="https://www.instagram.com/nin__sec/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" /></a>&nbsp;
+  <a href="https://x.com/nin_sec" title="X"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X" /></a>&nbsp;
+  <a href="https://github.com/fumioryoto" title="GitHub: @fumioryoto"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub: @fumioryoto" /></a>&nbsp;
+  <a href="https://github.com/Ninsec" title="GitHub: @Ninsec"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub: @Ninsec" /></a>
 </p>
 
 Telegram is the quickest way to reach me: [@ninsec](https://t.me/ninsec).
