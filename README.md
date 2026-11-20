@@ -1,47 +1,46 @@
-### **Hi I am**
+# Hi, I'm Nahid
+
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=fumioryoto&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=fumioryoto&data=followers,repositories,stars,commits&theme=aether" width="100%" alt="GitHub profile summary for fumioryoto" />
 </p>
 
-## **☕ About me**
+## ☕ About me
+
 <a href="https://fumioryoto.com">
-    <img align="left" width="100" src="./Images/mahiro_switch.png">
+  <img align="left" width="100" src="./Images/mahiro_switch.png" alt="Mahiro character illustration" />
 </a>
-<p>I'm Nahid, a passionate Person who currently focused on Cybersecurity stuff. Other than that, I also interested in Web Development and Open Source stuff. I love to learn new things and always open to new opportunities.<br>My hobbies are playing games (random), watching anime & movies/series, and sometimes tinkering with random stuff like coding & reverse engineering (I love doing this a lot).</p>
 
+I'm Nahid, and I'm focused on cybersecurity. I'm also interested in web development and open source. I love learning new things and am always open to new opportunities.
 
-## **🧋 Cutie Counter**
+My hobbies include playing games, watching anime and movies or series, and tinkering with things like coding and reverse engineering.
+
+## 🧸 Visitor counter
+
 <p align="center">
-	<img src="https://count.getloli.com/get/@fumioryoto?theme=original-new" alt="fumioryoto's cutie counter"/>
-	<br><br>
-	<code>People who visit my profile :3</code>
+  <img src="https://count.getloli.com/get/@fumioryoto?theme=original-new" alt="Visitor counter for fumioryoto's profile" />
+  <br /><br />
+  <code>People who visit my profile :3</code>
 </p>
 
-## **📫 Contacts**
+## 📫 Find me online
+
 <a href="https://fumioryoto.com">
-    <img align="left" width="100" src="./Images/mahiro.png" />
+  <img align="right" width="100" src="./Images/mahiro.png" alt="Mahiro character illustration" />
 </a>
 
-**Please Contact me on Telegram for a quick response:** [Nahid](https://t.me/ninsec)
+- **Website:** [fumioryoto.com](https://fumioryoto.com)
+- **Telegram:** [@ninsec](https://t.me/ninsec) — quickest way to reach me
+- **LinkedIn:** [linkedin.com/in/ninsec](https://www.linkedin.com/in/ninsec/)
+- **Facebook:** [nahidc71.phtml](https://www.facebook.com/nahidc71.phtml/)
+- **Instagram:** [@nin__sec](https://www.instagram.com/nin__sec/)
+- **X:** [@nin_sec](https://x.com/nin_sec)
+- **GitHub:** [@fumioryoto](https://github.com/fumioryoto) · [@Ninsec](https://github.com/Ninsec)
 
-**You can also email me here:** 
+## ✨ GitHub stats
 
-```c
-#include <stdio.h>
-
-void website() {
-  puts("fumioryoto.com");
-}
-
-int main () {
-    website();
-    return 0;
-}
-```
-## GitHub Stats ✨
 <table align="center">
   <tr>
-    <td><img src="https://streak-stats.demolab.com/?user=fumioryoto&theme=gruvbox_light&hide_border=false" /></td>
-    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fumioryoto&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=fumioryoto&theme=gruvbox_light&hide_border=false" alt="GitHub contribution streak for fumioryoto" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fumioryoto&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used programming languages for fumioryoto" /></td>
   </tr>
 </table>
