@@ -18,7 +18,7 @@ I'm Nahid, and I'm focused on cybersecurity. I'm also interested in web developm
 
 My hobbies include playing games, watching anime and movies or series, and tinkering with things like coding and reverse engineering.
 
-## Visitor counter
+## Visitor's
 
 <p align="center">
   <img src="https://count.getloli.com/get/@fumioryoto?theme=original-new" alt="Visitor counter for fumioryoto's profile" />
