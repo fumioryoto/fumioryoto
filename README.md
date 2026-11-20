@@ -4,7 +4,7 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=fumioryoto&data=followers,repositories,stars,commits&theme=aether" width="100%" alt="GitHub profile summary for fumioryoto" />
 </p>
 
-## ☕ About me
+## About me
 
 <a href="https://fumioryoto.com">
   <img align="left" width="100" src="./Images/mahiro_switch.png" alt="Mahiro character illustration" />
@@ -14,7 +14,7 @@ I'm Nahid, and I'm focused on cybersecurity. I'm also interested in web developm
 
 My hobbies include playing games, watching anime and movies or series, and tinkering with things like coding and reverse engineering.
 
-## 🧸 Visitor counter
+## Visitor counter
 
 <p align="center">
   <img src="https://count.getloli.com/get/@fumioryoto?theme=original-new" alt="Visitor counter for fumioryoto's profile" />
@@ -22,21 +22,26 @@ My hobbies include playing games, watching anime and movies or series, and tinke
   <code>People who visit my profile :3</code>
 </p>
 
-## 📫 Find me online
+## Find me online
 
 <a href="https://fumioryoto.com">
   <img align="right" width="100" src="./Images/mahiro.png" alt="Mahiro character illustration" />
 </a>
 
-- **Website:** [fumioryoto.com](https://fumioryoto.com)
-- **Telegram:** [@ninsec](https://t.me/ninsec) — quickest way to reach me
-- **LinkedIn:** [linkedin.com/in/ninsec](https://www.linkedin.com/in/ninsec/)
-- **Facebook:** [nahidc71.phtml](https://www.facebook.com/nahidc71.phtml/)
-- **Instagram:** [@nin__sec](https://www.instagram.com/nin__sec/)
-- **X:** [@nin_sec](https://x.com/nin_sec)
-- **GitHub:** [@fumioryoto](https://github.com/fumioryoto) · [@Ninsec](https://github.com/Ninsec)
+<p>
+  <a href="https://fumioryoto.com" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" alt="Website" /></a>&nbsp;
+  <a href="https://t.me/ninsec" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram: @ninsec (quickest way to reach me)" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ninsec/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.facebook.com/nahidc71.phtml/" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" alt="Facebook" /></a>&nbsp;
+  <a href="https://www.instagram.com/nin__sec/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a>&nbsp;
+  <a href="https://x.com/nin_sec" title="X"><img src="https://cdn.simpleicons.org/x/000000" width="40" alt="X" /></a>&nbsp;
+  <a href="https://github.com/fumioryoto" title="GitHub: @fumioryoto"><img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub: @fumioryoto" /></a>&nbsp;
+  <a href="https://github.com/Ninsec" title="GitHub: @Ninsec"><img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub: @Ninsec" /></a>
+</p>
 
-## ✨ GitHub stats
+Telegram is the quickest way to reach me: [@ninsec](https://t.me/ninsec).
+
+## GitHub stats
 
 <table align="center">
   <tr>
