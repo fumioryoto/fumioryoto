@@ -31,7 +31,7 @@ My hobbies include playing games, watching anime and movies or series, and tinke
 <p>
   <a href="https://fumioryoto.com" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" alt="Website" /></a>&nbsp;
   <a href="https://t.me/ninsec" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram: @ninsec (quickest way to reach me)" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ninsec/" title="LinkedIn"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ninsec/" title="LinkedIn"><img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn" /></a>&nbsp;
   <a href="https://www.facebook.com/nahidc71.phtml/" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" alt="Facebook" /></a>&nbsp;
   <a href="https://www.instagram.com/nin__sec/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a>&nbsp;
   <a href="https://x.com/nin_sec" title="X"><img src="https://cdn.simpleicons.org/x/000000" width="40" alt="X" /></a>&nbsp;
